@@ -1,6 +1,4 @@
-# Use the ALM Accelerator for Makers app (preview)
-
-[!INCLUDE [cc-beta-prerelease-disclaimer](../../includes/cc-beta-prerelease-disclaimer.md)]
+# Use the ALM Accelerator for Makers app (sample)
 
 > [!IMPORTANT]
 > The ALM Accelerator for Makers components are for reference only. For more robust deployment configurations, including components that need to be configured as part of—or after—solution deployment, we recommend that you use the ALM Accelerator for Power Platform app. More information: [Set up ALM Accelerator for Power Platform components](setup-almacceleratorpowerplatform-cli.md) and [Use ALM Accelerator for Power Platform components](almacceleratorpowerplatform-components.md)
