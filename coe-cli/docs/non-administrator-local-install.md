@@ -1,21 +1,3 @@
----
-title: "Center of Excellence (CoE) Command Line Interface (CLI) non administrator installation"
-description: "Install instructions for the Center of Excellence Command-Line interface using non administrator rights"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: yasinm
-ms.custom: ""
-ms.date: 3/15/2022
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # Non Administrator Center of Excellence (CoE) Command Line Interface (CLI) installation
 
 To install the CoE CLI as a non-administrator you leverage use the following components:

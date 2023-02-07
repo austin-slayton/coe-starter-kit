@@ -1,22 +1,3 @@
----
-title: "CoE ALM Maturity model"
-description: "Apply Power Platform Maturity to decide when to use ALM Accelerator using the Center of Excellence (CoE) and Command Line Interface (CLI)"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE ALM Maturity model
 
 The [Power CAT adoption maturity model](../../../../adoption/maturity-model.md) provides a set of levels and capabilities that can be used to evaluate usage of the application lifecycle management (ALM) and how the ALM Accelerator for Power Platform (AA4PP) can assist.
@@ -267,5 +248,3 @@ Leading questions to consider:
 1. Do you have cross-functional teams that plan and execute work jointly, including makers, testers, and operational teams?
 
 1. Do you have a common development strategy and goals for citizen and pro developers needed for new projects?
-
-[!INCLUDE[footer-include](../../../../../includes/footer-banner.md)]

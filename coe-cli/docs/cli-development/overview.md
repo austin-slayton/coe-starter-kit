@@ -1,22 +1,3 @@
----
-title: "CoE CLI development"
-description: "Overview of development for Center of Excellence Command-Line interface commands"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE CLI development
 
 This section outlines the following key sections on the CoE CLI. The information below can help guide you in making contributions back to the open-source repository.
@@ -115,5 +96,3 @@ You can debug the coe-cli application commands using Visual Studio Code.
 1. Open the **coe-cli** folder in Visual Studio Code.
 1. Place breakpoints in the TypeScript code you want to debug.
 1. Press F5 or select **Run** > **Start Debugging**.
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

@@ -1,19 +1,3 @@
----
-title: "Set up ALM Accelerator for Makers components | MicrosoftDocs"
-description: "The ALM Accelerator for Makers components help you follow ALM patterns and practices to source-control and move your solution from your development environment to test and production environments by using GitHub."
-author: manuelap-msft
-ms.topic: conceptual
-ms.date: 12/09/2022
-ms.subservice: guidance
-ms.author: mapichle
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - D365CE
-  - PowerApps
-  - Powerplatform
----
 # Set up ALM Accelerator for Makers components
 
 > [!IMPORTANT]
@@ -239,5 +223,3 @@ If you don't have a paid GitHub org plan, do the following for all projects crea
 1. Repeat the preceding steps to add a **TEST_ENVIRONMENT_SECRET** and **PROD_ENVIRONMENT_SECRET**.
 
 You can now [use the ALM Accelerator for Makers components](almaccelerator-components.md).
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

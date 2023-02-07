@@ -1,22 +1,3 @@
----
-title: "CoE ALM Accelerator for Power Platform before you start"
-description: "Key prerequisites and requirements for the ALM Accelerator using the Center of Excellence (CoE) Command Line Interface (CLI)"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE ALM Accelerator for Power Platform before you start
 
 > [!NOTE]
@@ -121,5 +102,3 @@ Once you've verified the above:
 1. Determine the install [deployment scenario](./scenarios/overview.md) you're targeting.
 
 1. Complete the [Administration install](./admin-install.md).
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

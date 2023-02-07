@@ -1,21 +1,3 @@
----
-title: "CoE ALM Accelerator for Power Platform key concepts"
-description: "Key concepts related to ALM Accelerator using the Center of Excellence (CoE) Command Line Interface (CLI)"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
 # CoE ALM Accelerator for Power Platform key concepts
 
 As you deploy and use the ALM CLI, it's important to understand the following key concepts that the CLI is automating.
@@ -151,5 +133,3 @@ The ALM Accelerator for Power Platform assumes the following environments have b
 1. Test - Environment used to validate changes before merging into production.
 
 1. Production environments - Environment used to deploy the production ready application.
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

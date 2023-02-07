@@ -1,22 +1,3 @@
----
-title: "CoE ALM Accelerator for Power Platform tenant deployments"
-description: "Overview of tenant deployment models for the ALM Accelerator"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE ALM Accelerator for Power Platform tenant deployments
 
 > [!NOTE]
@@ -265,5 +246,3 @@ To support multi-tenant deployments, the Azure Active Directory application will
 #### Learn more
 
 1. [Tenancy in Azure Active Directory](/azure/active-directory/develop/single-and-multi-tenant-apps)
-
-[!INCLUDE[footer-include](../../../../../includes/footer-banner.md)]

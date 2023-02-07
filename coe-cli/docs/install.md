@@ -1,23 +1,3 @@
----
-title: "Center of Excellence (CoE) Command Line Interface (CLI) installation"
-description: "Install instructions for the Center of Excellence Command-Line interface"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
-
 # Center of Excellence (CoE) Command Line Interface (CLI) installation
 
 To install the CoE CLI:
@@ -135,5 +115,3 @@ This command will start a new interactive console (`-it`) and remove the Docker 
 ## Next steps
 
 Install [ALM Accelerator](./alm/overview.md)
-
-[!INCLUDE[footer-include](../../../includes/footer-banner.md)]

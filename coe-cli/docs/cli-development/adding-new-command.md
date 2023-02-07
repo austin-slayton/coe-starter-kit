@@ -1,22 +1,3 @@
----
-title: "CoE CLI adding a new command"
-description: "Add a new command to the Center of Excellence Command-Line interface application"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE CLI development adding a new command
 
 To add a new sample command, you can use the following command to template the initial set-up of the TypeScript command and the Jest JavaScript testing framework unit test.
@@ -110,5 +91,3 @@ Once you have the unit test completed for your new command, perform these tasks:
    npm run test
 
    ```
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

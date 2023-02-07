@@ -1,22 +1,3 @@
----
-title: "Center of Excellence (CoE) command line interface (CLI) upgrade"
-description: "Upgrade instructions for the Center of Excellence command line interface"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # Center of Excellence (CoE) command line interface (CLI) upgrade
 
 Upgrade will depend on how you installed the CoE CLI.
@@ -78,5 +59,3 @@ In the coe-cli folder, run the following command:
    docker build -t coe-cli
 
    ```
-
-[!INCLUDE[footer-include](../../../includes/footer-banner.md)]

@@ -1,22 +1,3 @@
----
-title: "CoE CLI development documentation"
-description: "Documentation for the Center of Excellence Command-Line interface commands"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE CLI development documentation
 
 Documentation is key to understanding how the CLI works. As you add new commands, consider the following documentation:
@@ -163,5 +144,3 @@ The generated cast file is a simple text file that can be edited with any text e
 ```bash
 termtosvg render test2.cast test.svg -t window_frame
 ```
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

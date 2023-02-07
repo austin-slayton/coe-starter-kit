@@ -1,23 +1,3 @@
----
-title: "CoE ALM Accelerator for Power Platform personas"
-description: "Overview of the personas related to Center of Excellence (CoE) Command Line Interface (CLI) Application Lifecycle Management (ALM) Accelerator commands"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
-
 # CoE ALM Accelerator for Power Platform personas
 
 Understanding the roles that different personas play in ALM Accelerator for Power Platform (AA4PP) is important in helping you plan for and implement an application lifecycle management (ALM) deployment in your organization.
@@ -249,5 +229,3 @@ coe alm install -f install.json
 More information: [generate install](https://aka.ms/coe-cli/help/alm/generate/install)
 
 More information: [install](https://aka.ms/coe-cli/help/alm/install)
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

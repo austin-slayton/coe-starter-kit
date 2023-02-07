@@ -1,22 +1,3 @@
----
-title: "CoE ALM Accelerator for Power Platform branching and merging"
-description: "Discussion of branching and merging for ALM Accelerator using the Center of Excellence (CoE) command line interface (CLI)"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE ALM Accelerator for Power Platform branching and merging
 
 Development as a team of makers, advanced makers, and professional developers often uncovers new concepts. One area of complexity is branching and merging. Using the links below, different [personas](./personas.md) can review each concept and determine their level of comfort.
@@ -118,5 +99,3 @@ In this example, the finance application makes use of a common component to visu
 This PCF component is managed in a separate code repository. As new releases are created, they are tagged with release versions.
 
 A release version is imported into a feature branch for a Power Platform solution. This approach allows different versions of the PCF control to be developed and integrated with different solutions over time. In the finance example, version 1.0 to 1.1, which is committed to the **Expense-435** branch to update the PCF control, is used.
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

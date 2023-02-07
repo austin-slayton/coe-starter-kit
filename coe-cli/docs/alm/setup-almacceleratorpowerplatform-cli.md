@@ -1,22 +1,3 @@
----
-title: "Set up the ALM accelerator for Microsoft Power Platform components | MicrosoftDocs"
-description: "The ALM accelerator for Microsoft Power Platform will help you follow ALM patterns and practices to source-control and move your solutions from your development environment to test and production environments with Azure DevOps. This guide will walk through the setup of the accelerator by using the Center of Excellence CLI"
-author: jenschristianschroder 
-manager: devkeydet
-ms.component: pa-admin
-ms.topic: conceptual
-ms.date: 10/14/2021
-ms.subservice: guidance
-ms.author: jeschro 
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - D365CE
-  - PowerApps
-  - Powerplatform
----
-
 # Set up the ALM accelerator for Microsoft Power Platform components (preview)
 
 > [!NOTE]
@@ -39,5 +20,3 @@ The following articles guide you through setting up the Center of Excellence (Co
 1. [CoE CLI installation](./cli/install.md): How to install the CoE CLI by using a local host computer or via a Docker container.
 
 1. [Set up ALM accelerator for Power Platform](./cli/alm/admin-install.md): Use CLI commands to set up and configure an environment for the ALM accelerator, to enable makers to achieve more within your organization.
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -1,21 +1,3 @@
----
-title: "CoE CLI ALM accelerator for Microsoft Power Platform"
-description: "Overview of the Center of Excellence (CoE) command-line interface (CLI) ALM accelerator commands"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE CLI ALM accelerator for Microsoft Power Platform
 
 You can use the CLI application lifecycle management (ALM) accelerator for Microsoft Power Platform to manage common ALM tasks to install, set up, and administer the ALM accelerator for Microsoft Power Platform. This article contains:
@@ -163,5 +145,3 @@ The following recording shows a sample generating an installation configuration 
   - [Importing the solution](../../setup-almacceleratorpowerplatform.md#importing-the-solution-and-configuring-the-app): The manual steps to import the managed solution that are performed by the CLI install command
 - [Configuration and data deployment in pipelines](../../setup-almacceleratorpowerplatform-deployment-config.md): Configuring solution assets for the deployment, for example connection references, environment variables, and sharing
 - [Configuring pipeline sync](../../setup-almacceleratorpowerplatform-pipeline-sync.md): Creating a pipeline to sync the latest YAML from the CoE Starter Kit GitHub repo
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

@@ -1,22 +1,3 @@
----
-title: "CoE ALM Accelerator for Power Platform developer environments"
-description: "Summary of how to add a maker development environment to the ALM Accelerator using the Center of Excellence (CoE) Command Line Interface (CLI)"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # CoE ALM Accelerator for Power Platform developer environments
 
 Each maker will need a development environment created. Advanced makers can use a community environment to work in. Community environments can be accessed from the sign-up page [https://powerapps.microsoft.com/developerplan/](https://powerapps.microsoft.com/developerplan/), then select **Get started free**.
@@ -82,5 +63,3 @@ More information: [Core ALM maker add](https://aka.ms/coe-cli/help/alm/maker/add
 ## Read next
 
 - Complete the [Install overview](./overview.md#install-overview).
-
-[!INCLUDE[footer-include](../../../../includes/footer-banner.md)]

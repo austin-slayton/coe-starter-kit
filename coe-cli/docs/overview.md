@@ -1,22 +1,3 @@
----
-title: "Center of Excellence (CoE) Command Line Interface (CLI) overview"
-description: "Overview of the Center of Excellence Command-Line interface and how it automates the setup and administrator of common tasks"
-keywords: 
-author: Grant-Archibald-MS
-ms.author: grarchib
-manager: pladhani
-ms.custom: ""
-ms.date: 11/30/2021
-
-ms.topic: "article"
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - PowerApps
-  - Powerplatform
----
-
 # Center of Excellence (CoE) command line interface (CLI) overview
 
 The Center of Excellence (CoE) command line interface provides automation for common tasks of the CoE starter toolkit. It's been designed to provide a set of commands that meet the needs of different [personas](./alm/personas.md) across the organization.
@@ -80,5 +61,3 @@ Read more in the [help](https://aka.ms/coe-cli/help/overview) articles for detai
 ## How does it work
 
 Interested in learning how the CoE CLI works or want to extend the functionality? The [CLI development overview](./cli-development/overview.md) provides the best place to start.
-
-[!INCLUDE[footer-include](../../../includes/footer-banner.md)]

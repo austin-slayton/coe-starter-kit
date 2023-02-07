@@ -1,22 +1,3 @@
----
-title: "ALM Accelerator for Makers | MicrosoftDocs"
-description: "ALM Accelerator for Makers will help you follow ALM patterns and practices to implement source control and move your solutions from your development environment to test and production environments by using GitHub."
-author: manuelap-msft
-manager: devkeydet
-
-ms.component: pa-admin
-ms.topic: conceptual
-ms.date: 01/18/2021
-ms.subservice: guidance
-ms.author: mapichle
-ms.reviewer: jimholtz
-search.audienceType: 
-  - admin
-search.app: 
-  - D365CE
-  - PowerApps
-  - Powerplatform
----
 # Use the ALM Accelerator for Makers app (preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../../includes/cc-beta-prerelease-disclaimer.md)]
@@ -99,5 +80,3 @@ Before a maker can deploy their project to production, the project must have bee
 Makers can check the deployment history for their project by opening the detail pages for their project and selecting **>**.
 
 :::image type="content" source="media/git-35.png" alt-text="View deployment history":::
-
-[!INCLUDE[footer-include](../../includes/footer-banner.md)]
